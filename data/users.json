@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "email": "admin@dineaura.com",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJ7bB4QaTaC",
+    "type": "admin",
+    "identifier": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  "manager": {
+    "email": "manager@dineaura.com",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJ7bB4QaTaC",
+    "type": "admin",
+    "identifier": "manager",
+    "createdAt": "2026-03-03T21:40:00.000Z"
+  }
+}
